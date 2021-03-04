@@ -1,0 +1,13 @@
+D:\riderProject\C#AdvancedSection\AdvancedSectionProject\AdvancedSection\AdvancedSection01\AdvancedSection01\bin\Debug\netcoreapp3.1\AdvancedSection01.exe
+D:\riderProject\C#AdvancedSection\AdvancedSectionProject\AdvancedSection\AdvancedSection01\AdvancedSection01\bin\Debug\netcoreapp3.1\AdvancedSection01.deps.json
+D:\riderProject\C#AdvancedSection\AdvancedSectionProject\AdvancedSection\AdvancedSection01\AdvancedSection01\bin\Debug\netcoreapp3.1\AdvancedSection01.runtimeconfig.json
+D:\riderProject\C#AdvancedSection\AdvancedSectionProject\AdvancedSection\AdvancedSection01\AdvancedSection01\bin\Debug\netcoreapp3.1\AdvancedSection01.runtimeconfig.dev.json
+D:\riderProject\C#AdvancedSection\AdvancedSectionProject\AdvancedSection\AdvancedSection01\AdvancedSection01\bin\Debug\netcoreapp3.1\AdvancedSection01.dll
+D:\riderProject\C#AdvancedSection\AdvancedSectionProject\AdvancedSection\AdvancedSection01\AdvancedSection01\bin\Debug\netcoreapp3.1\AdvancedSection01.pdb
+D:\riderProject\C#AdvancedSection\AdvancedSectionProject\AdvancedSection\AdvancedSection01\AdvancedSection01\obj\Debug\netcoreapp3.1\AdvancedSection01.csprojAssemblyReference.cache
+D:\riderProject\C#AdvancedSection\AdvancedSectionProject\AdvancedSection\AdvancedSection01\AdvancedSection01\obj\Debug\netcoreapp3.1\AdvancedSection01.AssemblyInfoInputs.cache
+D:\riderProject\C#AdvancedSection\AdvancedSectionProject\AdvancedSection\AdvancedSection01\AdvancedSection01\obj\Debug\netcoreapp3.1\AdvancedSection01.AssemblyInfo.cs
+D:\riderProject\C#AdvancedSection\AdvancedSectionProject\AdvancedSection\AdvancedSection01\AdvancedSection01\obj\Debug\netcoreapp3.1\AdvancedSection01.csproj.CoreCompileInputs.cache
+D:\riderProject\C#AdvancedSection\AdvancedSectionProject\AdvancedSection\AdvancedSection01\AdvancedSection01\obj\Debug\netcoreapp3.1\AdvancedSection01.dll
+D:\riderProject\C#AdvancedSection\AdvancedSectionProject\AdvancedSection\AdvancedSection01\AdvancedSection01\obj\Debug\netcoreapp3.1\AdvancedSection01.pdb
+D:\riderProject\C#AdvancedSection\AdvancedSectionProject\AdvancedSection\AdvancedSection01\AdvancedSection01\obj\Debug\netcoreapp3.1\AdvancedSection01.genruntimeconfig.cache
